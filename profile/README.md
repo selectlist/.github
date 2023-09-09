@@ -10,5 +10,5 @@ Welcome to Select List, where we offer access to our extensive database of cutti
 - [Electrodragon](https://github.com/selectlist/electrodragon): The New Staff Application Programming Interface.
 - [SLHelper](https://github.com/selectlist/slhelper): A comprehensive Discord Bot and Server Listing tool.
 - [Website](https://github.com/selectlist/website): The official website for Select List.
-- [Baypaw](https://github.com/selectlist/baypaw): An IPC Replacement (currently unstable).
+- [Baypaw](https://github.com/selectlist/baypaw): An IPC Replacement
 - [Bristlefrost](https://github.com/selectlist/bristlefrost): Common Enums for universal use across Select List.
