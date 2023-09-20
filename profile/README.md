@@ -2,7 +2,7 @@
 
 Welcome to Select List, where we offer access to our extensive database of cutting-edge bots. Enhance your Discord Server with unparalleled versatility through our curated selection.
 
-# Repositories
+# Projects
 
 - [API V3](https://github.com/selectlist/api-v3): The Primary Application Programming Interface for Select List.
 - [Infra](https://github.com/selectlist/infra): The Backend Source Code and Core Assets.
@@ -12,6 +12,7 @@ Welcome to Select List, where we offer access to our extensive database of cutti
 - [Website](https://github.com/selectlist/website): The official website for Select List.
 - [Baypaw](https://github.com/selectlist/baypaw): An IPC Replacement
 - [Bristlefrost](https://github.com/selectlist/bristlefrost): Common Enums for universal use across Select List.
-
+- [Maya](https://github.com/selectlist/Maya): Artificial Intelligence support chatbot, created with OpenAI.
+  
 # Contributions
 Would you like to contribute to Select List? Here is some instructions to start [Self Hosting](https://github.com/selectlist/electrodragon/blob/main/api-docs/advanced/self-hosting.md)
