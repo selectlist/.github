@@ -12,6 +12,6 @@ Welcome to Select List, where we offer access to our extensive database of cutti
 - [Website](https://github.com/selectlist/website): The official website for Select List.
 - [Baypaw](https://github.com/selectlist/baypaw): An IPC Replacement
 - [Bristlefrost](https://github.com/selectlist/bristlefrost): Common Enums for universal use across Select List.
-- 
+
 # Contributions
 Would you like to contribute to Select List? Here is some instructions to start [Self Hosting](https://github.com/selectlist/electrodragon/blob/main/api-docs/advanced/self-hosting.md)
