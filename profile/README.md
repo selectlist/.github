@@ -15,3 +15,5 @@ Welcome to Select List, where we offer access to our extensive database of cutti
 
 # Contributions
 Would you like to contribute to Select List? Here is some instructions to start [Self Hosting](https://github.com/selectlist/electrodragon/blob/main/api-docs/advanced/self-hosting.md)
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=e72cd9af9dce&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
